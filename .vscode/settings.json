@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "arcd.h": "c",
+        "huffman.h": "c"
+    }
+}
